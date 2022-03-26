@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:  0;
+  }
+
+ 
+  img{
+  display:block;
+  margin:auto;
+  }
+  div{
+    text-align: center;
+  }
+  .h2,.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8,.item9,.item10{
+    color:   #ffffff;
+  }
+  .borde{
+    background-color: #990505;
+  }
+  body{
+    background-image:  url("https://cdn-images-1.medium.com/max/1600/1*FZFsrDmygEBkAVgvD1GOmA.jpeg");
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100vh;
+  }
